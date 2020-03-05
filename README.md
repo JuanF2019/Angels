@@ -1,2 +1,2 @@
 # angels
-Program to manage a certain type of angels, introdutcion to objects in Java.
+Program to manage a certain type of angels, introduction to objects in Java.
