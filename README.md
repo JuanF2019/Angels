@@ -1,2 +1,2 @@
-# Angels
-Angels - Lab 2 APO I
+# angels
+Program to manage a certain type of angels, introdutcion to objects in Java.
